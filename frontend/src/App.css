@@ -36,3 +36,11 @@ button {
   font-family: Monaco, Consolas, 'Courier New',
   monospace;
 }
+
+.logo {
+  color: white;
+  font-size: 28px;
+  padding-top: 4px;
+  padding-left: 45px;
+  float: left;
+}

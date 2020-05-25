@@ -6,7 +6,7 @@ import { Router } from 'react-router-dom';
 import {createBrowserHistory} from 'history';
 import * as serviceWorker from './serviceWorker';
 
-const history = createBrowserHistory()
+const history = createBrowserHistory();
 
 ReactDOM.render(
   <React.StrictMode>
